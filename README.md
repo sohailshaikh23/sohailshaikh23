@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohail Shaikh</h1>
-<h3 align="center">A passionate DevOps and Cloud Engineer from India</h3>
+<h3 align="center">A passionate and Enthusiast DevOps and Cloud Engineer from India</h3>
 
 - 🌱 I’m currently learning **AWS cloud, DevOps tools like docker, git, maven, Jenkins**
 
