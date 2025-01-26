@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohail Shaikh</h1>
 <h3 align="center">A passionate and Enthusiast DevOps and Cloud Engineer from India</h3>
 
-- 🌱 I’m currently learning **AWS cloud, DevOps tools like docker, git, maven, Jenkins**
+- 🌱 I’m currently learning **AWS cloud, DevOps tools like docker, kubernetes, terraform, atlassian jira, git, maven, Jenkins,**
 
 - 👯 I’m looking to collaborate on **Devops projects**
 
